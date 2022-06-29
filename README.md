@@ -1,25 +1,25 @@
 # Author: Saurav R.
-# Website: saurav-r.vercel.app
-# SocialMedia: Instagram: raj_saurav___
+# Website: https://saurav-r.vercel.app
+# SocialMedia: Instagram: www.instagram.com/raj_saurav___/
               
 
-# sTry this in Apollo Studio
+# Try this in Apollo Studio
 
 
-query {
+ query {
 
-  getAllPosts {
-    id
-    title
-    description
-  }
-
-  getPost(id: "62bb006e85bc11156e48b13c") {
-    id
-    title
-    description
-  }
-
+    getAllPosts {
+      id
+      title
+      description
+    }
+    
+    getPost(id: "62bb006e85bc11156e48b13c") {
+      id
+      title
+      description
+    }
+  
 }
 
  mutation {

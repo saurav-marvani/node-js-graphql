@@ -1,7 +1,7 @@
 # Author: Saurav R.
 # Website: https://saurav-r.vercel.app
-# SocialMedia: Instagram: www.instagram.com/raj_saurav___/
-              
+# Instagram: www.instagram.com/raj_saurav___/
+# LinkedIn: www.linkedin.com/in/saurav-r-35899b23a            
 
 # Try this in Apollo Studio
 
